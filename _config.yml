@@ -1,0 +1,27 @@
+title: Boise Math Circles
+author: Joe Champion, Samuel Coskey, Margaret Kinzel, Zach Teitler
+email: scoskey@boisestate.edu
+description: >-
+  The Boise Math Students' Circle is for Treasure Valley young people with
+  some experience with algebra who want to experience creative mathematics.
+  The Boise Math Teachers' Circle is a community for Treasure Valley K–12
+  math educators.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages: none
+
+bmc-handouts-base: /assets/bmc-handouts
+
+defaults: 
+  -
+    scope: 
+      path: "bmc-sessions"
+    values:
+      layout: post
