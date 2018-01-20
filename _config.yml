@@ -18,6 +18,7 @@ plugins:
 header_pages: none
 
 bmc-handouts-base: /assets/bmc-handouts
+git-base: https://github.com/scoskey/boisemathcircles.org/raw/master
 
 defaults: 
   -
