@@ -1,6 +1,7 @@
 ---
 title: Graph isomorphism
 tags: graph-theory
+img: 16-03-12-graph-isomorphism.jpg
 ---
 
 A <em>graph</em> is a collection of dots (called vertices) joined by curve segments (called edges). It doesn't matter how you name the vertices and it doesn't matter where you put them in your drawing. Two graphs are called <em>isomorphic</em> if you can rearrange the way one of them is drawn to make it look like the other. So for example you might convince yourself that a pentagon and pentagram are isomorphic to each other.

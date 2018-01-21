@@ -1,6 +1,7 @@
 ---
 title: Downtown walking distances
 tags: counting geometry taxicab-geometry
+img: 14-09-27-walkingdist.png
 ---
 
 We began our second session by noticing that in a perfect city grid such as (some of) Boise's downtown and north end, there are a lot of ways to get from point A to point B. So how many are there really?<!--more-->

@@ -1,6 +1,7 @@
 ---
 title: Polygons and area
 tags: geometry polygons
+img: 14-10-18-pick.jpg
 ---
 
 How much fruit is in that slice of fruit? In other words, what is the area of a polygon? If the polygon is drawn on a grid, how can you find the area by counting the grid points?

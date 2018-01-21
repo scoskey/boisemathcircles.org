@@ -25,4 +25,4 @@ defaults:
     scope: 
       path: "bmc-sessions"
     values:
-      layout: post
+      layout: bmc-post

@@ -1,6 +1,7 @@
 ---
 title: Recursion and the four numbers game
 tags: recursion
+img: 17-09-16-recursion-fournumbers.png
 ---
 Recursion means doing a process again and again.
 

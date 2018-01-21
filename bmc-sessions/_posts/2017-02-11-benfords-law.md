@@ -1,6 +1,7 @@
 ---
 title: Patterns in data
 tags: statistics
+img: 17-02-11-benfords.jpg
 ---
 
 Suppose you look up an index of the lengths of the world's rivers. What digit do the lengths start with? Are there the same number of rivers whose length starts with a 1 as there are rivers whose length starts with a 2?<!--more-->

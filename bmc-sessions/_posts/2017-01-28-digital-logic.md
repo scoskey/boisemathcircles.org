@@ -1,6 +1,7 @@
 ---
 title: The logic of calculators
 tags: logic
+img: 17-01-28-digital-logic.png
 ---
 
 How can a calculator use the flow of electricity to add two numbers together? In this activity we explored the building blocks of electrical circuits, and the mathematical logic that lies behind it.<!--more-->

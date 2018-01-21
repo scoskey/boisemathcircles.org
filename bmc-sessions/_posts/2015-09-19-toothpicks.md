@@ -1,6 +1,7 @@
 ---
 title: The ultimate toothpick pattern
 tags: counting fractals
+img: 15-09-19-toothpicks.jpg
 ---
 
 We met to talk about a very simple, but really interesting, new pattern that can be created in the following way.

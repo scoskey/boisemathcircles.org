@@ -1,6 +1,7 @@
 ---
 title: Fractals and dimension
-tags: fractals
+tags: fractals dimension
+img: 15-10-03-fractal-dimension.jpg
 ---
 
 What is the dimension of a figure? It is natural to say that a segment is 1-dimensional, a rectangle 2-dimensional, and a box 3-dimensional. But what about figures that are not this simple?<!--more-->

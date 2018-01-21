@@ -1,6 +1,7 @@
 ---
 title: Parametric equations
 tags: parametric
+img: 17-01-14-parametric.jpg
 ---
 
 In this activity we explored periodic parametric curves. We particularly studied the patterns that arise when you change the periods of the $x(t)$ and $y(t)$ coordinates.<!--more-->

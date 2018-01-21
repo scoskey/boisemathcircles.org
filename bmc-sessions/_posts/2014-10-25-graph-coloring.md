@@ -1,6 +1,7 @@
 ---
 title: Coloring maps
 tags: graph-theory
+img: 14-10-25-graph-coloring.png
 ---
 
 <a href="http://en.wikipedia.org/wiki/Cartography">Map-making</a> has some interesting connections to math. For example, it's <a href="http://en.wikipedia.org/wiki/Map_projection">tough to draw a round earth on flat paper</a>. Other problems can come up when one tries to highlight regions in a map using color. Our big question for this session is: <em>How can you color a map with only a few colors?</em><!--more-->

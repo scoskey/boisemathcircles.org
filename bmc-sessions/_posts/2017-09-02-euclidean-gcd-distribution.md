@@ -1,6 +1,7 @@
 ---
 title: The greatest common divisor and probability
 tags: number-theory probability
+img: 17-09-02-euclidean-gcddist.png
 ---
 
 The greatest common divisor of two numbers is the largest number that goes evenly into both. For example, the greatest common divisor of 30 and 45 would be 15. On the other hand the greatest common divisor of 30 and 41 would only be 1.<!--more-->

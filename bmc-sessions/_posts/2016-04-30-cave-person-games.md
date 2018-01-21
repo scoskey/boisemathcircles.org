@@ -1,6 +1,7 @@
 ---
 title: Cave person games
 tags: games
+img: 16-04-30-caveperson-games.jpg
 ---
 
 What kinds of games can be played using just stones? It turns out quite a few! In this session we investigated three games in particular.<!--more-->

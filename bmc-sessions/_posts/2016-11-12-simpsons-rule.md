@@ -1,6 +1,7 @@
 ---
 title: Bart vs Lisa vs Fractions
 tags: probability
+img: 16-11-12-simpsons-paradox.jpg
 ---
 
 Bart and Lisa compete in a two-day spelling contest. On the first day, Lisa gets a higher percentage right than Bart. And on the second day, Lisa gets a higher percentage right than Bart. So why did Bart win??<!--more-->

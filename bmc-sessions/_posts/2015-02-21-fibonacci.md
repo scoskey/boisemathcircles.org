@@ -1,6 +1,7 @@
 ---
 title: Patterns in the Fibonacci numbers
 tags: arithmetic fibonacci
+img: 15-02-21-fibonacci.jpg
 ---
 
 This special discussion was led by Zach Teitler and concerned patterns in the famous Fibonacci sequence of numbers. This sequence begins with 1,1 and then each successive number is obtained by taking the sum of the previous two. Here are the next few in the list:

@@ -1,6 +1,7 @@
 ---
 title: Falling chickens
 tags: games
+img: 17-03-11-falling-chickens.jpg
 ---
 
 In this circle we investigated something called the "falling sand pile". But sand is boring, so instead we studied falling chickens! The primary rule of falling chickens is

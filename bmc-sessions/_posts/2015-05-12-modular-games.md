@@ -1,7 +1,9 @@
 ---
 title: Games with modular arithmetic
 tags: games modular-arithmetic
+img: 15-05-12-modular-games.jpg
 ---
+
 In this discussion we began with the following simple game. Two players alternate naming a number from the set {1,...,n-1} and after each move the running total is computed modulo $n$. You can't play a number that's already been played. The first player who arrives at a running total of 0 loses.
 
 What kind of outcomes can this game have? Does either of the two players have a winning strategy? Does the answer depend on the value of $n$? We investigated these questions and many more in this session, which was led by three undergraduate researchers at BSU: Dan Kondratyuk, Scott Navert, and Stephanie Potter.<!--more-->

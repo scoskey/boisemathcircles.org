@@ -25,7 +25,10 @@ layout: page
       </p>
       <ul>
         <li>Check out the <a href="bmtc1718">current BMTC program</a></li>
-        <li>You can also see our past programs, <a href="bmtc1516">BMTC 2015–2016</a> and <a href="bmtc1617">BMTC 2016–2017</a></li>
+        <li>You can also see our past programs:<br/>
+          <a href="bmtc1516">BMTC 2015–2016</a><br/>
+          <a href="bmtc1617">BMTC 2016–2017</a></p>
+        </li>
       </ul>
     </td>
   </tr>
@@ -43,8 +46,15 @@ layout: page
 
 {% for post in site.posts limit: 6 %}
 
+  {% if post.img %}
+![head image]({{ site.baseurl}}/assets/bmc-headers/{{ post.img }})  
+{: style="width:150px; float:left; " }
+  {% endif %}
 [{{ post.title }}]({{ post.url }})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip }}  
 <span class="post-meta"><span class="category_name">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+{: style="margin-left:160px"}
 
+<div style="clear:both;"></div>
+  
 {% endfor %}
