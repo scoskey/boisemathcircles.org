@@ -1,11 +1,18 @@
 ---
 layout: page
-title: Schedule of upcoming BMC meetings
+title: Schedule and location of BMC meetings
 ---
 
-The BMC meets Saturday mornings from 10am to 11:30am on the BSU campus, in the Math Building, room 107 (<a href="https://www.google.com/maps/d/edit?mid=zCVBwvqNw2CA.kLB8VJqTEdkU">map</a>). Here is our 2017–2018 schedule.
+## Meeting location
 
-### Fall
+The BMC meets on the BSU campus, in the Math Building (MB), room 107. See this [map](https://www.google.com/maps/d/edit?mid=zCVBwvqNw2CA.kLB8VJqTEdkU).
+
+## Meeting times
+
+The BMC meets certain Saturday mornings from 10am to 11:30am.
+
+### Fall 2017 dates
+
 * September 2
 * September 16
 * September 23
@@ -17,7 +24,8 @@ The BMC meets Saturday mornings from 10am to 11:30am on the BSU campus, in the M
 * November 18
 * December 9
 
-### Spring
+### Spring 2018 dates
+
 * January 20
 * February 24
 * March 17
