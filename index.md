@@ -27,7 +27,7 @@ layout: page
         <li>Check out the <a href="bmtc1718">current BMTC program</a></li>
         <li>You can also see our past programs:<br/>
           <a href="bmtc1516">BMTC 2015–2016</a><br/>
-          <a href="bmtc1617">BMTC 2016–2017</a></p>
+          <a href="bmtc1617">BMTC 2016–2017</a>
         </li>
       </ul>
     </td>
