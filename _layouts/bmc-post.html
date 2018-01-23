@@ -2,6 +2,8 @@
 layout: post
 ---
 
-<img src="{{ site.baseurl}}/assets/bmc-headers/{{ page.img }}" style="max-width:500px; max-height:300px; margin:10px" />
+{% if page.img %}
+  <img src="{{ site.baseurl}}/assets/bmc-headers/{{ page.img }}" style="max-width:500px; max-height:300px; margin:10px" />
+{% endif %}
 
 {{ content }}
