@@ -21,8 +21,8 @@ How much fruit is in that slice of fruit? In other words, what is the area of a 
 
 ## Some of our handouts
 <ul>
-<li><a href="{{ site.bmc-handouts-base }}/picks-polygons.pdf">Calculating Polygon Areas &amp; Conjecturing a General Formula</a></li>
-<li><a href="{{ site.bmc-handouts-base }}/picks-squaredots.pdf">Lattice of Dots for Drawing Shapes</a></li>
-<li><a href="{{ site.bmc-handouts-base }}/picks-extensions.pdf">Extension Questions for Pick's Theorem</a></li>
-<li><a href="{{ site.bmc-handouts-base }}/picks-challenge.pdf">Challenge Shape for Calculating Area</a></li>
+<li><a href="{{ site.bmc-handouts }}/picks-polygons.pdf">Calculating Polygon Areas &amp; Conjecturing a General Formula</a></li>
+<li><a href="{{ site.bmc-handouts }}/picks-squaredots.pdf">Lattice of Dots for Drawing Shapes</a></li>
+<li><a href="{{ site.bmc-handouts }}/picks-extensions.pdf">Extension Questions for Pick's Theorem</a></li>
+<li><a href="{{ site.bmc-handouts }}/picks-challenge.pdf">Challenge Shape for Calculating Area</a></li>
 </ul>

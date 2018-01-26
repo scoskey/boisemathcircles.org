@@ -17,6 +17,6 @@ This led us to a number of different questions:
 * If you do allow paths that are not optimal (but still don't backtrack), how much does the count increase?
 
 ## Handouts from the session
-* <a href="{{ site.bmc-handouts-base }}/taxicab-northend.pdf">northend</a>
-* <a href="{{ site.bmc-handouts-base }}/taxicab-grids.pdf">grids</a>
-* <a href="{{ site.bmc-handouts-base }}/taxicab-Grid-Shapes.pdf">Grid Shapes</a>
+* <a href="{{ site.bmc-handouts }}/taxicab-northend.pdf">northend</a>
+* <a href="{{ site.bmc-handouts }}/taxicab-grids.pdf">grids</a>
+* <a href="{{ site.bmc-handouts }}/taxicab-Grid-Shapes.pdf">Grid Shapes</a>

@@ -3,9 +3,6 @@
 
 @import "minima";
 
-.footer-heading {
-  display: none;
-}
 header.post-header {
   margin-bottom: 0;
 }
@@ -15,6 +12,11 @@ main.page-content {
 header.site-header {
   border-top: 2px solid #424242;
   border-bottom: 5px solid #424242;
+}
+img.bmc-header {
+  max-width:500px;
+  max-height:300px;
+  margin:10px;
 }
 a, a:visited {
 	color: #F1632A;

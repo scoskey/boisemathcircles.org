@@ -6,8 +6,10 @@ description: >-
   some experience with algebra who want to experience creative mathematics.
   The Boise Math Teachers' Circle is a community for Treasure Valley K–12
   math educators.
+url: "http://boisemathcircles.org"
 baseurl: ""
-url: ""
+bmc-headers: "/assets/bmc-headers"
+bmc-handouts: "/assets/bmc-handouts"
 
 # Build settings
 markdown: kramdown
@@ -18,7 +20,6 @@ plugins:
 header_pages: none
 
 bmc-handouts-base: /assets/bmc-handouts
-git-base: https://github.com/scoskey/boisemathcircles.org/raw/master
 
 defaults: 
   -
