@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+.footer-heading {
+  display: none;
+}
+header.post-header {
+  margin-bottom: 0;
+}
+main.page-content {
+  # padding-top: 0;
+}
+header.site-header {
+  border-top: 2px solid #424242;
+  border-bottom: 5px solid #424242;
+}
+a, a:visited {
+	color: #F1632A;
+}
+a:hover {
+	color: #F88A5E;
+}
+::selection {
+	background: #F1632A;
+}
+::-moz-selection {
+	background: #F1632A;
+}
+.category_name {
+  font-weight: bold;
+}
