@@ -4,7 +4,7 @@ title: Faculty biographies
 ---
 
 <style>
-  img {
+  img.fac {
     float: left;
     width: 80px;
     margin: 10px;
@@ -13,11 +13,11 @@ title: Faculty biographies
 
 ## Program Directors
 
-![Joe]({{ site.baseurl }}/assets/bmc-faculty/joe.jpg) **Joe Champion** is a member of the math education faculty at BSU. He is a math circle veteran, having cofounded the [Islander Math Circles](http://math.tamucc.edu/circles/) at his previous institution (Texas A&amp;M&mdash;Corpus Christi).
+![Joe]({{ site.baseurl }}/assets/bmc-faculty/joe.jpg){: .fac} **Joe Champion** is a member of the math education faculty at BSU. He is a math circle veteran, having cofounded the [Islander Math Circles](http://math.tamucc.edu/circles/) at his previous institution (Texas A&amp;M&mdash;Corpus Christi).
 
 <div style="clear:both"></div>
 
-![Joe]({{ site.baseurl }}/assets/bmc-faculty/sam.jpg) **Samuel Coskey** is a member of the pure math faculty at BSU. He has lots of experience participating in and facilitating mathematics discussions, and learned about math circles from like-minded friends. He's been looking forward to the opportunity to provide one to the treasure valley ever since.
+![Joe]({{ site.baseurl }}/assets/bmc-faculty/sam.jpg){: .fac} **Samuel Coskey** is a member of the pure math faculty at BSU. He has lots of experience participating in and facilitating mathematics discussions, and learned about math circles from like-minded friends. He's been looking forward to the opportunity to provide one to the treasure valley ever since.
 
 <div style="clear:both"></div>
 
@@ -25,14 +25,14 @@ title: Faculty biographies
 
 **Jonny Comes** is a math PhD and a recent member of the math faculty at the College of Idaho. Jonny is currently working on his math research as well as being a full-time dad.
 
-![Gary]({{ site.baseurl }}/assets/bmc-faculty/gary.jpg) **Gary Thomas** is a member of the math faculty at the College of Western Idaho. Gary is a long-time lover not only of math and science, but also languages, linguistics, and cultures.
+![Gary]({{ site.baseurl }}/assets/bmc-faculty/gary.jpg){: .fac} **Gary Thomas** is a member of the math faculty at the College of Western Idaho. Gary is a long-time lover not only of math and science, but also languages, linguistics, and cultures.
 
 <div style="clear:both"></div>
 
 ## Former mentors
 
-![Joe]({{ site.baseurl }}/assets/bmc-faculty/ian.jpg) **Ian Cavey** is a graduate of the BSU math program. He was also a member of the math club. Ian has since moved on to a PhD program in math.
+![Joe]({{ site.baseurl }}/assets/bmc-faculty/ian.jpg){: .fac} **Ian Cavey** is a graduate of the BSU math program. He was also a member of the math club. Ian has since moved on to a PhD program in math.
 
 <div style="clear:both"></div>
 
-![Joe]({{ site.baseurl }}/assets/bmc-faculty/rust.jpg) **Rust Yazdanpour** is a graduate of the BSU math program. Rust has since moved on to a career in computer programming.
+![Joe]({{ site.baseurl }}/assets/bmc-faculty/rust.jpg){: .fac} **Rust Yazdanpour** is a graduate of the BSU math program. Rust has since moved on to a career in computer programming.
