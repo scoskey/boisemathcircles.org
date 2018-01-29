@@ -17,6 +17,6 @@ Some of the questions we asked:
 <li>How might you use mod math to scramble a message?</li>
 </ul>
 
-## The handouts
+## Handouts from the session
 
-* <a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2014/11/Clock-Arithmetic-Handouts.pdf">Clock Arithmetic Handouts</a>
+{% include handouts.html %}

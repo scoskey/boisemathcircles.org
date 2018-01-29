@@ -15,7 +15,6 @@ Some of the questions we explored:
 <li>What are some fool-proof ways to solve arithmagons?</li>
 </ul>
 
-## The handouts
-<ul>
-<li><strong><a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/01/Arithmagraphs-Handouts.pdf">Arithmagraphs Handouts</a></strong></li>
-</ul>
+## Handouts from the session
+
+{% include handouts.html %}

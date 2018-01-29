@@ -19,8 +19,6 @@ plugins:
 
 header_pages: none
 
-bmc-handouts-base: /assets/bmc-handouts
-
 defaults: 
   -
     scope: 

@@ -1,0 +1,8 @@
+{% assign post-basename = page.path | split: "/" | last | remove: ".md" | remove: ".html" %}
+<ul>
+{% for file in site.static_files %}
+  {% if file.path contains post-basename %}
+  <li><a href="{{ file.path | relative_url }}">{{ file.basename }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

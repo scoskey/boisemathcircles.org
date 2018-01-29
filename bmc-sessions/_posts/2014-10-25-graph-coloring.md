@@ -27,11 +27,6 @@ img: 14-10-25-graph-coloring.png
 <li><a href="http://www.nikoli.com/swf/four_color_problem_005_en.swf" target="_blank">Bumps</a></li>
 </ul>
 
-## Some of the handouts
+## Handouts from the session
 
-<ul>
-<li><a href="http://boisemathcircles.org/wp-content/uploads/sites/10/2014/10/coloring-set-1.pdf">coloring set 1</a></li>
-<li><a href="http://boisemathcircles.org/wp-content/uploads/sites/10/2014/10/coloring-set-2.pdf">coloring set 2</a></li>
-<li><a href="http://boisemathcircles.org/wp-content/uploads/sites/10/2014/10/Map-Coloring-Challenge-Card.pdf">Map Coloring Challenge Card</a></li>
-<li><a href="http://boisemathcircles.org/wp-content/uploads/sites/10/2014/10/Map-Coloring-Atoll-Worksheet.pdf">Map Coloring - Atoll Worksheet</a></li>
-</ul>
+{% include handouts.html %}
