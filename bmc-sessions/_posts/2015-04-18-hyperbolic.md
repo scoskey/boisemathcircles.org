@@ -1,8 +1,8 @@
 ---
 title: Hyperbolic surfaces
 tags: geometry hyperbolic-geometry
-img: 15-04-27-hyperbolic.jpg
 ---
+
 You are probably familiar with the hexagonal tiling of the plane:
 
 <img src="{{ site.baseurl }}/assets/400px-Tiling_Regular_6-3_Hexagonal.svg_-300x300.png" alt="400px-Tiling_Regular_6-3_Hexagonal.svg" width="300" height="300" class="aligncenter size-medium wp-image-429" />

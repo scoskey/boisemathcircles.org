@@ -1,8 +1,8 @@
 ---
 title: Recursion and the four numbers game
 tags: recursion
-img: 17-09-16-recursion-fournumbers.png
 ---
+
 Recursion means doing a process again and again.
 
 In the lesson portion of this meeting, we introduced the idea of recursion with the Pass the Candy game. In this game everyone starts with a pile of candy, and passes half of it to the left. When you repeat the process, everyone eventually ends up with the same amount of candy. If you can write down the recursive equation that simulate the game, then you can use math or spreadsheets to explain why this happens.<!--more-->

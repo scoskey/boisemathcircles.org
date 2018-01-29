@@ -1,7 +1,6 @@
 ---
 title: Toroidal polyhedra
 tags: polyhedra euler
-img: 16-01-16-toroidal-polyhedra.jpg
 ---
 
 This may sound like a fancy title, but it just means figures with flat sides and a hole in the middle!<!--more-->

@@ -1,7 +1,6 @@
 ---
 title: Sudoku and latin squares
 tags: latin-squares
-img: 16-02-20-latin-squares.jpg
 ---
 
 Today our guests Liljana Babinkostova and Marion Scheepers (both BSU math professors) led a discussion of sudoku and counting.<!--more-->

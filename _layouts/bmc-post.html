@@ -2,8 +2,15 @@
 layout: post
 ---
 
-{% if page.img %}
-  <img class="bmc-header" src="{{ site.bmc-headers }}/{{ page.img }}" />
+{% assign post-basename = page.path | split: "/" | last | remove: ".md" | remove: ".html" %}
+{% for img in site.static_files %}
+  {% if img.basename == post-basename %}
+    {% assign img-path = img.path %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+{% if img-path %}
+<img class="bmc-header" src="{{ img-path | relative_url }}" />
 {% endif %}
 
 {{ content }}

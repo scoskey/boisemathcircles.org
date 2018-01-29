@@ -1,7 +1,6 @@
 ---
 title: Numbers on clocks
 tags: group-theory modular-arithmetic
-img: 14-11-08-modular-arithmetic.jpg
 ---
 
 For this session, we worked on Modular Arithmetic by thinking about a circular number line arranged like a clock.<!--more-->

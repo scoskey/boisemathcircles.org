@@ -1,7 +1,6 @@
 ---
 title: Solids from regular sides
 tags: geometry polyhedra
-img: 15-10-10-johnson-solids.jpg
 ---
 
 In this session we asked what solids can be made using regular polygons as sides. We investigated this almost entirely by playing around with snap-together polygons. And thanks to our campus 3d printer, we got to handle some of the more obscure shapes too.<!--more-->

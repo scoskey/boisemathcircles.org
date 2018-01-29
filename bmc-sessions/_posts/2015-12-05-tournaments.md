@@ -1,7 +1,6 @@
 ---
 title: Tournament Winners
 tags: graph-theory
-img: 15-12-05-tournaments.png
 ---
 
 Imagine three friends play a game. Mia beats Alex, Alex beats Siki, and Siki beats Mia. Which one of the three, if any, should we consider to be overall winner? In this session, we consider the idea of a <strong>tournament, </strong>which is a series of one-on-one win-or-lose games in which every player plays everyone else one time.<!--more-->

@@ -1,7 +1,6 @@
 ---
 title: Quadrilaterals
 tags: geometry polygons tiling
-img: 15-11-14-quadrilaterals.jpg
 ---
 
 It is hard to believe that this was only our first discussion using Geogebra, the all-powerful program for visualizing geometry problems. In fact we used just a tiny fraction of the tool's capabilities to explore four-sided figures, or quadrilaterals.<!--more-->

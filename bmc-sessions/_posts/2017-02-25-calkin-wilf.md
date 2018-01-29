@@ -1,7 +1,6 @@
 ---
 title: A tree of fractions
 tags: enumeration
-img: 17-02-25-calkin-wilf.jpg
 ---
 
 Have you ever tried to list out all of the rational numbers? In this lesson we explored a nifty way of writing all rational numbers called the Calkin&mdash;Wilf tree.<!--more-->

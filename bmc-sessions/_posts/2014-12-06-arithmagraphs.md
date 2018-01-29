@@ -1,7 +1,6 @@
 ---
 title: Number graphs
 tags: graph-theory
-img: 14-12-06-arithmagraphs.jpg
 ---
 
 For this last session of the Fall 2014 math circle, we explored a type of number puzzle involving labeling undirected graphs.<!--more-->

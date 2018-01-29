@@ -1,8 +1,8 @@
 ---
 title: Ways to write numbers
 tags: arithmetic
-img: 15-01-24-number-bases.jpg
 ---
+
 How do we write our numbers? When ten units get together, they make one new thing. We keep this new thing in a separate box to keep track of its status. This is called the 1←10 rule. Some people think we use the 1←10 rule because we have ten fingers. But what if we had a different number of fingers? Or a different type of rule altogether?<!--more-->
 
 <p>In this discussion, we took on the following tasks.</p>

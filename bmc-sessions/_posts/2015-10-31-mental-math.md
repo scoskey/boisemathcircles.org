@@ -1,7 +1,6 @@
 ---
 title: Spook-tacular mental math
 tags: arithmetic
-img: 15-10-31-mental-math.jpg
 ---
 
 For our Halloween session, presenter Gary Thomas shared some wonderful skills and the abstract concepts that support day-to-day arithmetic.<!--more-->

@@ -1,12 +1,11 @@
 ---
 title: Polygons and area
 tags: geometry polygons
-img: 14-10-18-picks-formula.jpg
 ---
 
-How much fruit is in that slice of fruit? In other words, what is the area of a polygon? If the polygon is drawn on a grid, how can you find the area by counting the grid points?
+How much fruit is in that slice of fruit? In other words, what is the area of a polygon? If the polygon is drawn on a grid, how can you find the area by counting the grid points?<!--more-->
 
-<img src="{{ site.baseurl }}/assets/misc/pick-sample.png" alt="pick theorem sample" width="300" height="230" /><!--more-->
+<img src="{{ site.baseurl }}/assets/misc/pick-sample.png" alt="pick theorem sample" width="300" height="230" />
 
 <p>In this session we drew a wide variety of different polygons, and each time we computed the number of grid points on the boundary, the number of grid points in the interior, and the area of the polygon. Then we asked the questions:</p>
 <ul>

@@ -47,11 +47,19 @@ layout: page
 {% for post in site.posts limit: 6 %}
   <div style="margin-top: 15px">
     <a href="{{ post.url }}">
-      {%- if post.img -%}
-        <img src="{{ site.bmc-headers }}/{{ post.img }}" style="width:150px; float:left;" />
-      {%- else -%}
-        <img src="{{ site.baseurl }}/assets/bmc-logo.png" style="width:150px; float:left;" />
-      {%- endif -%}
+      {% assign post-basename = post.path | split: "/" | last | remove: ".md" | remove: ".html" %}
+      {% for img in site.static_files %}
+        {% if img.basename == post-basename %}
+          {% assign img-path = img.path %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% if img-path %}
+        <img src="{{ img-path | relative_url }}" style="width:150px; float:left;" />
+        {% assign img-path = false %}
+      {% else %}
+        <img src={{ "/assets/bmc-logo.png" | relative_url }} style="width:150px; float:left;" />
+      {% endif %}
       <div class="post-list-title" style="margin-left:160px">{{- post.title -}}</div>
     </a>
     <div style="margin-left:160px">
