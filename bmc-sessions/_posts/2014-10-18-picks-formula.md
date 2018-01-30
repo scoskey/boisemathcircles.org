@@ -16,6 +16,7 @@ How much fruit is in that slice of fruit? In other words, what is the area of a 
 <li>Why does your formula work? First start with a simple rectangle and argue that it always works.</li>
 <li>Argue the formula works for the next simplest shape: a right triangle</li>
 <li>How can you adapt this argument to work for more complicated shapes?</li>
+<li>Try the formula on as huge and complicated a polygon as you can!</li>
 </ul>
 
 ## Handouts from the session
