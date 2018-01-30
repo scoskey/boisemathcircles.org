@@ -8,8 +8,6 @@ description: >-
   math educators.
 url: "http://boisemathcircles.org"
 baseurl: ""
-bmc-headers: "/assets/bmc-headers"
-bmc-handouts: "/assets/bmc-handouts"
 
 # Build settings
 markdown: kramdown
@@ -20,8 +18,7 @@ plugins:
 header_pages: none
 
 defaults: 
-  -
-    scope: 
+  - scope: 
       path: "bmc-sessions"
     values:
-      layout: bmc-post
+      layout: header-post
