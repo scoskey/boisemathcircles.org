@@ -6,7 +6,7 @@ This is the source repository for the draft Boise math circles home page, [beta.
 
 The text of the post and several other optional components are located in different folders, and tied together using concomitant file naming.
 
-The **text** of the post should be placed in either `bmc-sessions/\_posts` or in `bmtc-sessions/\_posts`. The file name should be `yyyy-mm-dd-session-id.md` or `yyyy-mm-dd-session-id.html`, where yyyy-mm-dd is the date of the session itself. Put the title and optionally some tags in the topmatter:
+The **text** of the post should be placed in either `bmc-sessions/\_posts` or in `bmtc-sessions/\_posts`. The file name should be `yyyy-mm-dd-session-id.md` or `yyyy-mm-dd-session-id.html`, where yyyy-mm-dd is the date of the session itself. Put the title and optionally some space-separated tags in the topmatter:
 
     ---
     title: My session title

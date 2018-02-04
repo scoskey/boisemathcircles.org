@@ -7,7 +7,7 @@ Suppose you are sending a crew of scientists to the moons of Mars: Phobos and De
 
 We investigated this question during our first session of the BMC. There are some pretty interesting patterns to be found! The problem has been studied in great detail during the summer research program at Boise State!
 
-<ul>
-<li>Check out our <a href="http://boisemathcircles.org/wp-content/uploads/2016/09/Moons-of-mars.pdf">presentation</a></li>
-<li>Try splitting our <a href="http://boisemathcircles.org/wp-content/uploads/2016/09/crews.pdf">sample crews</a>!</li>
-</ul>
+## Materials from the session
+
+* Check out our <a href="https://drive.google.com/open?id=1qx9-M04UBJEIQIOwfc3zuYK7koAZ6o3D">presentation</a>
+* Try splitting our <a href="https://drive.google.com/open?id=0B8I8tnGPftncWE1xcmtJN1JsSmc">sample crews</a>!

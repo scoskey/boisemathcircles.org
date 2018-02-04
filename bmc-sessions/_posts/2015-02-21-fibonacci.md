@@ -19,10 +19,10 @@ Which Fibonacci numbers are even? Which ones are odd? Which Fibonacci numbers ar
 <p>We also worked on some fun graphical problems:</p>
 <ul>
 <li>We have some bricks that are 1 unit by 2 units. We want to make a wall 2 units high, and n units wide. How many ways can it be done? The bricks can be vertical or horizontal.<br />
-<a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/Screen-Shot-2015-03-09-at-12.02.02-AM.png"><img src="{{ site.baseurl }}/assets/Screen-Shot-2015-03-09-at-12.02.02-AM.png" alt="Screen Shot 2015-03-09 at 12.02.02 AM" width="233" height="182" class="aligncenter size-full wp-image-373" /></a>
+<img src="{{ site.baseurl }}/assets/misc/fibonacci1.png" width="233" height="182" />
 </li>
 <li>Now you have a row of n chairs and you want to put students in some of the chairs. The students are taking an exam so they are not allowed to sit right next to each other. How many ways are there to do this?<br />
-<a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/Screen-Shot-2015-03-09-at-12.02.16-AM.png"><img src="{{ site.baseurl }}/assets/Screen-Shot-2015-03-09-at-12.02.16-AM.png" alt="Screen Shot 2015-03-09 at 12.02.16 AM" width="290" height="192" class="aligncenter size-full wp-image-374" /></a>
+<img src="{{ site.baseurl }}/assets/misc/fibonacci2.png" width="290" height="192" />
 </li>
 </ul>
 <p>Finally we looked at some more fun patterns:</p>
@@ -44,11 +44,11 @@ Do you see any patterns in this new sequence? Can you explain it?
 What do you get? Can you explain this pattern?
 </li>
 <li>Look at the "diagonals" in Pascal's triangle:<br />
-<a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/Screen-Shot-2015-03-09-at-12.02.25-AM.png"><img src="{{ site.baseurl }}/assets/Screen-Shot-2015-03-09-at-12.02.25-AM-300x140.png" alt="Screen Shot 2015-03-09 at 12.02.25 AM" width="300" height="140" class="aligncenter size-medium wp-image-375" /></a><br />
+<img src="{{ site.baseurl }}/assets/misc/fibonacci3.png" width="300" height="140" /><br />
 Can you explain this pattern?
 </li>
 </ul>
-<p>Download the handout <a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/fibonacci.pdf">here</a>.</p>
-<h2>Our work</h2>
-<p><a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/IMG_0009.jpg"><img src="{{ site.baseurl }}/assets/IMG_0009-300x166.jpg" alt="IMG_0009" width="300" height="166" class="aligncenter size-medium wp-image-380" /></a></p>
-<p><a href="https://math.boisestate.edu/circle/wp-content/uploads/sites/10/2015/03/IMG_0007.jpg"><img src="{{ site.baseurl }}/assets/IMG_0007-300x173.jpg" alt="IMG_0007" width="300" height="173" class="aligncenter size-medium wp-image-381" /></a></p>
+
+## Handouts from the session
+
+{% include handouts.html %}

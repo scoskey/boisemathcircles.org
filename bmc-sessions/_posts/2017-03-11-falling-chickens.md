@@ -8,9 +8,8 @@ In this circle we investigated something called the "falling sand pile". But san
 <blockquote>
   When 4 chickens land in someone's backyard, they "break out" and go to the neighbors' yards instead.
 </blockquote>
-<!--more-->
 
-<h2>Summary</h2>
+## Summary
 
 In the process we discovered a new sequence: When the chickens fall on one square in the middle of the grid, how long does it take for the chicken fractal to spread n units up from the center? Our answer so far:
 
@@ -20,7 +19,7 @@ In the process we discovered a new sequence: When the chickens fall on one squar
 
 We have yet to analyze the pattern.
 
-<h2>Here is the game and questions</h2>
+## Here is the game and questions
 
 <style>
   /*PAGE STYLES*/
@@ -697,7 +696,8 @@ We have yet to analyze the pattern.
 </tbody>
 </table>
 
-<h2>Math Questions</h2>
+## Math Questions
+
 <ol>
 <li>If one of the yards has 2 or more chickens, is it possible to go back to all yards having less than 2 chickens?</li>
 <li>Does the order at which chickens arrive change the result? (or just the locations where they arrive)</li>
@@ -710,9 +710,12 @@ We have yet to analyze the pattern.
 <li>What happens if you alternate adding chickens between two yards?</li>
 <li>Which is better, spreading the chickens out in a consistent way, or letting them fall randomly?</li>
 </ol>
-<h2>Resources</h2>
-<p>This activity is an exploration of a class mathematical objects called <a href="http://www.math.cmu.edu/~wes/sandgallery.html">abelian sandpiles</a>. We highly recommend reading <a href="http://nautil.us/issue/23/Dominoes/the-amazing-autotuning-sandpile">Jordan Ellenberg's wonderful article</a> about sandpiles.</p>
-<p>In addition, we thank Marcel Salathé for a nice <a href="http://www.natureincode.com/code/various/sandpile.html">outline of the code</a> to implement the "chicken rule".</p>
+
+## Resources
+
+This activity is an exploration of a class mathematical objects called <a href="http://www.math.cmu.edu/~wes/sandgallery.html">abelian sandpiles</a>. We highly recommend reading <a href="http://nautil.us/issue/23/Dominoes/the-amazing-autotuning-sandpile">Jordan Ellenberg's wonderful article</a> about sandpiles.
+
+In addition, we thank Marcel Salathé for a nice <a href="http://www.natureincode.com/code/various/sandpile.html">outline of the code</a> to implement the "chicken rule".
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
