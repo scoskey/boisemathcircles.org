@@ -22,3 +22,7 @@ defaults:
       path: "bmc-sessions"
     values:
       layout: header-post
+  - scope: 
+      path: "bmtc-sessions"
+    values:
+      layout: header-post
