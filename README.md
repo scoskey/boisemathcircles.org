@@ -37,3 +37,23 @@ You can then link to the page using the target `"/my-page"`.
 ## To use styles
 
 Style additions and overrides may be placed in `assets/main.scss` or at the top of a particular post or page using `<style></style>`.
+
+## To test locally
+
+To view the site locally on your computer before pushing changes to the server, you will need jekyll installed. On a mac, here is how I do it.
+
+1. Install homebrew `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+2. Install the latest version of ruby `brew install ruby`
+3. Install bundler (you may need to sign out and in to use the new gem command) `gem install bundler`
+4. Clone the repository `git clone git@github.com:scoskey/boisemathcircles.org`
+5. Enter the repository directory and run `bundle update`
+
+Once you have the repository, you can make changes, preview changes, and push changes as follows.
+
+1. Enter the repository directory and run `git pull`
+2. Make changes and run `bundle exec jekyll s`
+3. Open your browser and enter the address stated on the command line. Keep making changes and refresh the pages as necessary.
+4. Do a `git status` for a list of files changed and `git diff` for a summary of changes.
+4. If everything looks good, do a `git add FILE` for every file with important changes
+5. `git commit -m 'description of changes'`
+6. `git push`
