@@ -15,6 +15,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+permalink: /:categories/:title
 header_pages: none
 
 defaults: 
