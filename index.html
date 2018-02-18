@@ -64,7 +64,7 @@ layout: page
     </a>
     <div style="margin-left:160px">
       {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip }}<br/>
-      <span class="post-meta"><span class="category_name">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta"><span class="category_name">{{ post.categories }}</span> item dated {{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
   </div>
   <div style="clear:both;"></div>
