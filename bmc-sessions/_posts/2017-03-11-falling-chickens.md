@@ -29,7 +29,7 @@ We have yet to analyze the pattern.
   .callout {
     
       background-size: 100px;
-      background-image: url("http://boisemathcircles.org/wp-content/uploads/2017/03/left-arrow-e1489246483147.png");
+      background-image: url("{{site.baseurl}}/assets/misc/leftarrow.png");
       padding: 20px;
       background-color: #b5e4ee;
       font-size: 20px;
@@ -85,15 +85,15 @@ We have yet to analyze the pattern.
   }
   [data-n="1"]{
   	background-color:#0f0;
-  	background-image: url("/assets/misc/one-chicken.png");					
+  	background-image: url("{{site.baseurl}}/assets/misc/one-chicken.png");					
   }
   [data-n="2"]{
   	background-color:rgb(255, 234, 101);
-  	background-image: url("/assets/misc/two-chickens.png");					
+  	background-image: url("{{site.baseurl}}/assets/misc/two-chickens.png");					
   }
   [data-n="3"]{
   	background-color:#f00;
-  	background-image: url("/assets/misc/three-chickens.png");					
+  	background-image: url("{{site.baseurl}}/assets/misc/three-chickens.png");					
   }
   /*Theme Fixes*/
   .entry-content ul > li {
