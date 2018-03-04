@@ -38,3 +38,8 @@ please take a look below at the slides that we used for the activity.
 ## Handout from the session
 
 {% include handouts.html %}
+
+<br />
+
+<small>(Header image <a href="https://flic.kr/p/F9jeQ">Pot of Gold</a>
+courtesy of <a href="https://www.flickr.com/photos/tao_zhyn/">Jeremy Schultz</a>.)</small>
