@@ -22,4 +22,4 @@ We each made planes like this and then used a straightedge and protractor to obs
 * When drawing a triangle, many students noticed that even though they tried to make the third side hit the other two, it would diverge. This means there are many lines parallel to a given one through any point! (That is, Euclid's parallel postulate doesn't hold.)
 * Some participants observed that the larger a triangle they drew, the smaller the interior angle sum. In hyperbolic space, non-congruent triangles are automatically non-similar!
 
-This activity was borrowed from Frank Sottile. Check it out <a href="http://www.math.tamu.edu/~frank.sottile/research/subject/stories/hyperbolic_football/index.html">here</a>!
+This activity was borrowed from Frank Sottile. Check it out! <a href="http://www.math.tamu.edu/~frank.sottile/research/subject/stories/hyperbolic_football/index.html">Frank Sottile's hyperbolic activity</a>
