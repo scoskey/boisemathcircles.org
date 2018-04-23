@@ -48,3 +48,12 @@ It was impressive to see all these sequences packaged together into one neat tri
 
 {% include handouts.html %}
 
+<br />
+
+<small>
+(Header image: This <a href="https://www.wikipedia.org/">Wikipedia</a>
+and <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> image is from the user
+<a href="https://en.wikipedia.org/wiki/User:Chris_73">Chris 73</a> and is freely available at
+<a href="https://commons.wikimedia.org/wiki/File:NautilusCutawayLogarithmicSpiral.jpg">https://commons.wikimedia.org/wiki/File:NautilusCutawayLogarithmicSpiral.jpg</a>
+under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">creative commons cc-by-sa 3.0</a> license.)
+</small>
