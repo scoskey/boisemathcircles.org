@@ -29,6 +29,6 @@ The BMC meets certain Saturday mornings from 10am to 11:30am.
 * January 20
 * February 24
 * March 17
-* April 21
-* May 12
-
+* April 21 (rescheduled)
+* April 28
+* May 12 (cancelled)
