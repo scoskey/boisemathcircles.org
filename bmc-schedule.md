@@ -23,6 +23,6 @@ The BMC meets certain Saturday mornings from 10am to 11:30am.
 * December 1
 * December 8
 
-### Tentative Spring 2018 dates
+### Tentative Spring 2019 dates
 
 * Still under development!
