@@ -11,8 +11,8 @@ This was a way to write a fraction, like 3/5, by adding together unit fractions 
 For example 3/5 could be written as 1/2+1/10.
 We followed along with worksheets from the LA Math Circle, available here:
 <ol>
-<li> Part 1: <a href="http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1309-1347.pdf">http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1309-1347.pdf"</a></li>
-<li> Part 2: <a href="http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1318-1350.pdf">http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1318-1350.pdf"</a></li>
+<li> Part 1: <a href="http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1309-1347.pdf">http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1309-1347.pdf</a></li>
+<li> Part 2: <a href="http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1318-1350.pdf">http://www.math.ucla.edu/~radko/circles/lib/data/Handout-1318-1350.pdf</a></li>
 </ol>
 We found that once you have an Egyptian Fraction Representation (EFR) it's easy to modify
 it to get other EFRs for the same fraction.
