@@ -7,15 +7,15 @@ Our first activity was about the problem of writing numbers as sums of three cub
 <a href="https://www.youtube.com/watch?v=wymmCdLdPvM">This Numberphile video with Tim Browning</a>
 explained the problem.
 We tried solving for a few numbers like 39.
-<img src="/assets/bmtc-photos/IMG_1708.JPG" />
+<img src="/assets/bmtc-photos/IMG_1708.JPG" /><br />
 We saw the proof that numbers of the form $9k+4$ or $9k+5$ can't be written as a sum of 3 cubes.
-<img src="/assets/bmtc-photos/IMG_1705.JPG" />
+<img src="/assets/bmtc-photos/IMG_1705.JPG" /><br />
 Then we learned that the problem for 33 has been solved... <i>yesterday!</i>
 It was pretty neat to learn about a genuinely new mathematical discovery.
 We talked about how the problem itself isn't important for applications, or even for other areas of math,
 but the way to solve it is kind of interesting.
-<img src="/assets/bmtc-photos/IMG_1706.JPG" />
-<img src="/assets/bmtc-photos/IMG_1707.JPG" />
+<img src="/assets/bmtc-photos/IMG_1706.JPG" /><br />
+<img src="/assets/bmtc-photos/IMG_1707.JPG" /><br />
 Instead of a brute force search, you can look for rational points that are near the curve $x^3+y^3=1$.
 
 
@@ -40,10 +40,10 @@ Our old friend, geometric series showed up.
 Specifically, we had $1/4 + 1/4^2 + 1/4^3 + \dotsb = 1/3$.
 We came up with some really neat and colorful dissections of triangles and squares
 that showed why that worked.
-<img src="/assets/bmtc-photos/IMG_0757.JPG" />
-<img src="/assets/bmtc-photos/IMG_0755.JPG" />
-<img src="/assets/bmtc-photos/IMG_0754.JPG" />
-<img src="/assets/bmtc-photos/IMG_1709.JPG" />
+<img src="/assets/bmtc-photos/IMG_0757.JPG" /><br />
+<img src="/assets/bmtc-photos/IMG_0755.JPG" /><br />
+<img src="/assets/bmtc-photos/IMG_0754.JPG" /><br />
+<img src="/assets/bmtc-photos/IMG_1709.JPG" /><br />
 
 
 
