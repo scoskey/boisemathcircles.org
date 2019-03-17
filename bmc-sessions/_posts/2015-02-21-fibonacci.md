@@ -13,7 +13,7 @@ Which Fibonacci numbers are even? Which ones are odd? Which Fibonacci numbers ar
 <ul>
 <li>Which Fibonacci numbers are divisible by 2? By 3? By 5?</li>
 <li>What patterns do you notice?</li>
-<li>Next try the sequence \(2^n-1\). This one begins 1, 3, 7, 15, 31, 63, 127, 255, 511, .... Which of these numbers are divisible by 3? By 7? By 15?</li>
+<li>Next try the sequence $2^n-1$. This one begins 1, 3, 7, 15, 31, 63, 127, 255, 511, .... Which of these numbers are divisible by 3? By 7? By 15?</li>
 <li>How does this pattern compare with the patterns in the fibonacci numbers? Can you explain why the pattern works?</li>
 </ul>
 <p>We also worked on some fun graphical problems:</p>

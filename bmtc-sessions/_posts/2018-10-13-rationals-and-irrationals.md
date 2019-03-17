@@ -7,18 +7,18 @@ We looked at irrational and rational numbers.
 We figured out which real numbers have terminating, repeating, or eventually repeating
 decimal expansions.
 And we found some patterns in the periods of repeating decimal expansions:
-for a prime number \(p\), the decimal expansion of \(1/p\) always has a period
-which is a factor of \(p-1\).
+for a prime number $p$, the decimal expansion of $1/p$ always has a period
+which is a factor of $p-1$.
 We saw how to prove that some numbers are irrational,
-including \(\sqrt{2}\) and \(\log_2(3)\)$ (the logarithm of \(3\) in base \(2\)).
+including $\sqrt{2}$ and $\log_2(3)$ (the logarithm of $3$ in base $2$).
 
 Then we switched gears and started looking at continued fractions.
 We found out that every rational number has a finite (terminating) continued fraction.
 Irrational numbers have infinite continued fractions,
 and we saw that repeating (periodic) continued fractions correspond to
-quadratic irrational numbers like \(\sqrt{2}\) or \((1+\sqrt{5})/2\).
+quadratic irrational numbers like $\sqrt{2}$ or $(1+\sqrt{5})/2$.
 We had fun with the simple continued fraction expansions of the sequence
-\(5/3\), \(8/5\), \(13/8\), \(21/13\),... given by ratios of Fibonacci numbers.
+$5/3$, $8/5$, $13/8$, $21/13$,... given by ratios of Fibonacci numbers.
 And we found a connection with the golden ratio!
 Finally we looked at some pretty remarkable continued fraction expansions,
 including some recently discovered ones.
