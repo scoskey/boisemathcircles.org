@@ -15,7 +15,7 @@ The BMC meets certain Saturday mornings from 10am to 11:30am.
 
 * February 2
 * March 9
-* April 6
+* April 20
 
 ### Fall 2018 dates
 
