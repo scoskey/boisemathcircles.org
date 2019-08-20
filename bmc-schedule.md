@@ -11,20 +11,16 @@ The BMC meets on the BSU campus, in the Math Building (MB), room 107. See this [
 
 The BMC meets certain Saturday mornings from 10am to 11:30am.
 
-### Spring 2019 dates
+### Fall 2019 dates
 
-* February 2
-* March 9
-* April 20
+* Sep 14
+* Oct 19
+* Nov 16
+* Dec 14
 
-### Fall 2018 dates
+### Spring 2020 dates
 
-* September 8
-* September 15
-* September 29
-* October 13
-* October 20
-* November 3
-* November 10
-* December 1
-* December 8
+* Jan 18
+* Feb 15
+* Mar 14
+* Apr 18
