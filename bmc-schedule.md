@@ -5,7 +5,7 @@ title: Schedule and location of BMC meetings
 
 ## Meeting time and location
 
-The BMC meets Saturday mornings from 10am to 11:30am in room MB 107. That's in the Math Building on BSU campus; see this [map](https://www.google.com/maps/d/edit?mid=zCVBwvqNw2CA.kLB8VJqTEdkU). The BMC meets certain 
+The BMC meets certain Saturday mornings from 10am to 11:30am in room MB 107 (or sometimes around the corner in MB 119). That's in the Math Building on BSU campus; see this [map](https://www.google.com/maps/d/edit?mid=zCVBwvqNw2CA.kLB8VJqTEdkU).
 
 ## Tentative meeting dates
 
